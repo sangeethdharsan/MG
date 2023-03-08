@@ -11,4 +11,7 @@ jobs:
       uses: php-actions/composer@v6
       with:
         php_version: "8.1"
+    - name: Install dependencies
+      run: curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+           
         
