@@ -1,0 +1,6 @@
+projectKey=Magento
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=Magento
+ceTaskId=AYU0PLuFKt75Ck5tiPQm
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYU0PLuFKt75Ck5tiPQm
